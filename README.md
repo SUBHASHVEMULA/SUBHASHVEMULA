@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/subhash-vemula-174189248/)">
+  <a href="https://www.linkedin.com/in/subhash-vemula-174189248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
